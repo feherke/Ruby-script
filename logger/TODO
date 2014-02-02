@@ -1,0 +1,3 @@
+* Conditional fragments, similar to WinAmp ATF : "[] means <<don't display unless metadata was found>>."
+* ANSI colored log levels when logging to STDOUT.
+* Access instances through the Logger class to avoid using global variables.

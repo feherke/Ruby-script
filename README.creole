@@ -1,0 +1,12 @@
+= Ruby Script
+
+[[http://ruby-lang.org/|Ruby]] is my favorite language. It has the perfect balance between the restrictions and flexibility.
+Sadly I either use it for minor things not worthful to be published or for work things not suitable for outsiders eyes.
+
+This repository contains a collection of scripts, each directory contains one script and the related files.
+
+Here are some scripts I wrote.
+
+* **Logger** - Logger class tailored for personal taste.
+
+These scripts were intentionally kept short. For details see the [[http://feherke.github.io/ruby/|Ruby section of my site]].
